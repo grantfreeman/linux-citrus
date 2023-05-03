@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+!Name=<name>
+NoDisplay=false
+!Icon=<icon-path>
+!Exec=<exec-path>
+Terminal=false
+!Categories=AudioVideo;Audio;Video;Development;Education;Game;Graphics;Network;Office;Settings;System;Utility;
