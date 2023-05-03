@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Ankama
+NoDisplay=false
+Icon=/home/grant/games/ankama/ankama-logo.png
+Exec="/home/grant/games/ankama/Ankama Launcher-Setup-x86_64.AppImage"
+Terminal=false
+Categories=Game;
