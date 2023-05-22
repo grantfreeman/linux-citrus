@@ -1,0 +1,1 @@
+files placed in `~/Templates` will show in context menu `new > 'file'`
