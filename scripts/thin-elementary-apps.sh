@@ -3,9 +3,11 @@
 # Remove base apps
 
 # flatpaks
-flatpaks uninstall -y Camera
-flatpaks uninstall -y Music
-flatpaks uninstall -y Videos
+flatpak uninstall -y Camera
+flatpak uninstall -y Music
+flatpak uninstall -y Videos
+
+exit 0
 
 # apts
 sudo apt -y remove io.elementary.code
